@@ -1,0 +1,13 @@
+Grupo 1
+Integrantes:
+
+Mario Águila Núñez 		m.aguilanuez@uandresbello.edu
+Francisco Covarrubias Gallardo 	f.covarrubiasgallard@uandresbello.edu
+Bayron Fuentealba Flores 		b.fuentealbaflores@uandresbello.edu
+Franco Menares Fuentes 		f.menaresfuentes@uandresbello.edu
+Moisés Monsalve Lozano 		m.monsalvelozano@uandresbello.edu
+Denisse Ramírez Jara 		d.ramrezjara@uandresbello.edu
+
+PO:  Romina Torres Torres 	rom.torres@uandresbello.edu
+
+Jira: https://unab-magister.atlassian.net/jira/software/projects/G1/boards/2/backlog
